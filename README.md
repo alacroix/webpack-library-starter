@@ -1,5 +1,7 @@
 # Webpack library starter
 
+[![Build Status](https://travis-ci.org/alacroix/webpack-library-starter.svg?branch=master)](https://travis-ci.org/alacroix/webpack-library-starter)
+
 Webpack based boilerplate for producing libraries (Input: ES6, Output: universal library)
 
 ## Features
