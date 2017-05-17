@@ -1,5 +1,8 @@
 # Webpack library starter
 
+[![Build Status](https://travis-ci.org/alacroix/webpack-library-starter.svg?branch=master)](https://travis-ci.org/alacroix/webpack-library-starter)
+[![Coverage Status](https://coveralls.io/repos/github/alacroix/webpack-library-starter/badge.svg?branch=master)](https://coveralls.io/github/alacroix/webpack-library-starter?branch=master)
+
 Webpack based boilerplate for producing libraries (Input: ES6, Output: universal library)
 
 ## Features
