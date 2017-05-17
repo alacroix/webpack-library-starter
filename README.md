@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/alacroix/webpack-library-starter.svg?branch=master)](https://travis-ci.org/alacroix/webpack-library-starter)
 [![Coverage Status](https://coveralls.io/repos/github/alacroix/webpack-library-starter/badge.svg?branch=master)](https://coveralls.io/github/alacroix/webpack-library-starter?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/alacroix/webpack-library-starter.svg)](https://greenkeeper.io/)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Webpack based boilerplate for producing libraries (Input: ES6, Output: universal library)
 
