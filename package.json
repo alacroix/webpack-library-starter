@@ -11,7 +11,7 @@
     "test:watch": "mocha --compilers js:babel-core/register --colors -w ./test/*.spec.js"
   },
   "devDependencies": {
-    "babel-cli": "6.24.1",
+    "babel-cli": "6.26.0",
     "babel-core": "6.24.1",
     "babel-loader": "7.0.0",
     "babel-plugin-add-module-exports": "0.2.1",
