@@ -21,7 +21,7 @@
     "eslint": "3.19.0",
     "eslint-loader": "1.7.1",
     "mocha": "3.4.1",
-    "nyc": "^10.3.2",
+    "nyc": "^11.4.1",
     "standard": "^10.0.2",
     "standard-loader": "^6.0.1",
     "webpack": "2.5.1",
