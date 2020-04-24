@@ -19,7 +19,7 @@
     "chai": "3.5.0",
     "coveralls": "^2.13.1",
     "eslint": "3.19.0",
-    "eslint-loader": "1.7.1",
+    "eslint-loader": "4.0.2",
     "mocha": "3.4.1",
     "nyc": "^10.3.2",
     "standard": "^10.0.2",
